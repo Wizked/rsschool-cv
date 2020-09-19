@@ -2,15 +2,15 @@
 
 ### CONTACTS
 > **Phone:** +375295956879  
-> **E-mail:**  [minatosavich@gmail.com]  
+> **E-mail:**  [minatosavich@gmail.com](minatosavich@gmail.com)  
 
 
 
 ### SKILLS
 
-> HTML/CSS/JS basics  
-> less/Gulp  
-> Photoshop  
+> **HTML/CSS/JS basics**  
+> **less/Gulp**  
+> **Photoshop**  
 
 
 
