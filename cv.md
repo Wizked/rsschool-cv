@@ -4,7 +4,7 @@
 > **Phone:** +375295956879
 > **E-mail:**  [minatosavich@gmail.com]
 
----
+
 
 ### SKILLS
 
@@ -12,7 +12,7 @@
 > less/Gulp
 > Photoshop
 
----
+
 
 ### EXPERIENCE
 
