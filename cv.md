@@ -9,9 +9,9 @@
 ### SKILLS
 
 > **HTML/CSS/JS basics**  
-
+>
 > **less/Gulp**  
-
+>
 > **Photoshop**  
 
 
